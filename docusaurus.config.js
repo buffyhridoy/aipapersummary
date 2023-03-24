@@ -22,9 +22,9 @@ module.exports = {
     //   isCloseable: false,
     // },
     prism: {
-      // theme: require("prism-react-renderer/themes/github"),
       theme: require("prism-react-renderer/themes/dracula"),
-      darkTheme: require("prism-react-renderer/themes/dracula"),
+      // theme: require("prism-react-renderer/themes/github"),
+      // darkTheme: require("prism-react-renderer/themes/dracula"),
     },
     navbar: {
       title: "AI Paper Insights",
@@ -97,6 +97,13 @@ module.exports = {
         },
       ],
     },
+
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+
     footer: {
       style: "dark",
       copyright: `Copyright © ${new Date().getFullYear()} AI Paper Insights. Built with Docusaurus.`,
