@@ -5,8 +5,10 @@ module.exports = {
   baseUrl: "/",
   trailingSlash: true,
   favicon: "img/favicon.png",
-  organizationName: "yangshun",
+  // organizationName: "",
   projectName: "aipapersummary",
+  
+  
 
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
