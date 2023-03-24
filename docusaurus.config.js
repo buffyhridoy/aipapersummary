@@ -46,6 +46,10 @@ module.exports = {
         {
           label: "Object Detection",
           href: "/object-detection/a-trainable-system/",
+        },  
+        {
+          label: "GAN",
+          href: "/gan/gan/",
         },        
         { label: "Blog", to: "blog", position: "left" },
         {
