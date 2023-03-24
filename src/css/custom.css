@@ -17,13 +17,13 @@
 }
 
 :root {
-  --ifm-color-primary: #6565d5;
+  /* --ifm-color-primary: #6565d5;
   --ifm-color-primary-dark: #5959d2;
   --ifm-color-primary-darker: #4c4cce;
   --ifm-color-primary-darkest: #4040cb;
   --ifm-color-primary-light: #7e7edc;
   --ifm-color-primary-lighter: #8a8adf;
-  --ifm-color-primary-lightest: #afafe9;
+  --ifm-color-primary-lightest: #afafe9; */
 
   --ifm-font-family-base: 'Inter var', -apple-system, BlinkMacSystemFont,
     'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
