@@ -8,21 +8,22 @@ module.exports = {
   // organizationName: "",
   projectName: "aipapersummary",
   
-  
+
 
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   themeConfig: {
-    announcementBar: {
-      id: "algomonster-1", // Increment on change
-      content: `Stop grinding mindlessly, study with a plan! Developed by Google engineers,
-      <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=" target="_blank" rel="noopener">AlgoMonster</a> is the fastest way to get a software engineering job.
-      <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=" target="_blank" rel="noopener">Check it out now!</a>`,
-      isCloseable: false,
-    },
+    // announcementBar: {
+    //   id: "algomonster-1", // Increment on change
+    //   content: `Stop grinding mindlessly, study with a plan! Developed by Google engineers,
+    //   <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=" target="_blank" rel="noopener">AlgoMonster</a> is the fastest way to get a software engineering job.
+    //   <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=" target="_blank" rel="noopener">Check it out now!</a>`,
+    //   isCloseable: false,
+    // },
     prism: {
-      theme: require("prism-react-renderer/themes/github"),
+      // theme: require("prism-react-renderer/themes/github"),
+      theme: require("prism-react-renderer/themes/dracula"),
       darkTheme: require("prism-react-renderer/themes/dracula"),
     },
     navbar: {
