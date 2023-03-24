@@ -49,7 +49,7 @@ module.exports = {
         },  
         {
           label: "GAN",
-          href: "/gan/gan/",
+          href: "/gan/",
         },        
         { label: "Blog", to: "blog", position: "left" },
         {
