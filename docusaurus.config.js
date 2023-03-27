@@ -199,9 +199,9 @@ module.exports = {
       ],
     },
     algolia: {
-      appId: "Y09P1J4IPV",
-      apiKey: "e12588cbae68d752469921cc46e9cb66",
-      indexName: "techinterviewhandbook",
+      appId: "AONI0HXOEW",
+      apiKey: "cd267eeb0c0e87cf19e7c4e7c0e91d8a",
+      indexName: "aipapersummary",
     },
     docs: {
       sidebar: {
