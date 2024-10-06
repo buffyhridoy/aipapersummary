@@ -16,7 +16,7 @@ keywords:
   ]
 ---
 
-> Citations: 756 | Paper Published: 27 Jun 2016 | Institutions: Baidu, University of California, Berkeley, Facebook | Authors: Jiang Wang, Yi Yang, Junhua Mao, Zhiheng Huang, Chang Huang, Wei Xu
+> Citations: 756 | Paper Published: 27 Jun 2016 | Institutions: Baidu, University of California, Berkeley, Facebook | Authors: Jiang Wang, Yi Yang, Junhua Mao, Zhiheng Huang, Chang Huang, Wei Xu, University of California, Berkeley, Baidu Research, Facebook AI Research
 
 <!-- Prettier doesn't change this -->
 :::tip Abstract in 2 Lines
